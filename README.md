@@ -108,7 +108,7 @@ These key mappings can be customized by adjusting the `setup_keymaps` function o
 
 ## Acknowledgments
 
-Special thanks to [api.datamuse.com](https://api.datamuse.com) for providing the
+Special thanks to [datamuse](https://www.datamuse.com/api/) for providing the
 linguistic data that powers this plugin. The service offers a wealth
 of word-related information, and this plugin wouldn't be possible without it.
 
